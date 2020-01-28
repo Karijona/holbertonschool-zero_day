@@ -1,0 +1,1 @@
+This project is about to create and set up my git and github account.
